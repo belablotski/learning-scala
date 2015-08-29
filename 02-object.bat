@@ -1,0 +1,1 @@
+scala 02-object.scala param1 param2 param3
