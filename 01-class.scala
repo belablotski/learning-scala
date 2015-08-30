@@ -1,3 +1,5 @@
+// By default, the fields declared in Scala classes are public, unlike Java, where they have a package scope.
+
 // Scala class with immutable attributes
 // Regex: http://www.scala-lang.org/api/current/index.html#scala.util.matching.Regex
 // scala.Option -- Represents optional values. Instances of Option are either an instance of scala.Some or the object None.
