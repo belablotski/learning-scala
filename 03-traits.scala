@@ -1,6 +1,9 @@
 // Traits ~ Java Interfaces: traits are used to define object types by specifying the signature of the supported methods. 
 // Traits !~ Java Interfaces: Scala allows traits to be partially implemented: it is possible to define default implementations for some methods. 
 // In contrast to classes, traits may not have constructor parameters.
+// Conclusion: Traits lie between interfaces and abstract classes. But, we can only extend one abstract class whereas we can extend several traits.
+
+// Note that the order in which traits are stacked is important. They are calling each other from right to left.
 
 // Modified example from http://docs.scala-lang.org/tutorials/tour/traits.html
 
