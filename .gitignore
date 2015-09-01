@@ -1,0 +1,18 @@
+# Java and other binaries #
+*.class
+*.cache
+
+# Package and Compiled Files #
+*.jar
+*.war
+*.ear
+
+# Eclipse #
+.classpath
+.project
+
+/sbt/02-SBT_Sample_Web_App/.settings/
+/sbt/02-SBT_Sample_Web_App/target/
+/sbt/02-SBT_Sample_Web_App/project/target/
+/sbt/02-SBT_Sample_Web_App/project/project/target/
+
