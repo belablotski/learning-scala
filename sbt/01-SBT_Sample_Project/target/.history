@@ -1,0 +1,9 @@
+exit
+set name := "SBT_Sample_Project"
+session save
+exit
+eclipse
+sbt eclipse
+sbteclipse
+sbt eclipse
+eclipse
