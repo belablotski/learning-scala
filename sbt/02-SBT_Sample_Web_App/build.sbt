@@ -12,3 +12,5 @@ libraryDependencies += "org.mortbay.jetty" % "jetty" % "6.1.26" % "container"
 
 libraryDependencies += "javax.servlet" % "servlet-api" % "2.5" % "provided"
 
+libraryDependencies += "org.scala-lang" % "scala-xml" % "2.11.0-M4"
+

@@ -1,6 +1,7 @@
 # Java and other binaries #
 *.class
 *.cache
+*.cache-main
 
 # Package and Compiled Files #
 *.jar
