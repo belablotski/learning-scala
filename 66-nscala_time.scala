@@ -27,3 +27,6 @@ val dur = new Duration(dt1, dt2)
 dur.getMillis
 dur.getStandardHours
 dur.getStandardDays
+
+// Filtering data range
+// history.dropWhile(_ < start).takeWhile(_ <= end)
