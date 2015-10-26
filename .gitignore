@@ -2,6 +2,7 @@
 *.class
 *.cache
 *.cache-main
+*-gitignore.scala
 
 # Package and Compiled Files #
 *.jar
